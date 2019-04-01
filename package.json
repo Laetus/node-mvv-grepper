@@ -1,0 +1,11 @@
+{
+  "name": "mvv-grepper",
+  "version": "1.0.0",
+  "description": "Grep data from MVV API to display next departures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "philipp.froehlich@pfxf.de",
+  "license": "MIT"
+}
