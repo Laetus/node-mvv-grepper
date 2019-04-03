@@ -18,6 +18,9 @@ class Station {
         this.distance = obj.distance
         this.products = obj.products
     }
+    public toString = (): string => {
+        return `Station '${this.name}' ${this.distance}m away.`
+    }
 }
 
 

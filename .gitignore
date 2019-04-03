@@ -82,3 +82,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+## CUSTOM
+# ignore javascript, as this is typescript only
+*.js
